@@ -10,6 +10,6 @@ The project is split in two Jupyter notebooks. final_project_EDA contains the da
 The notebooks can be executed on a Python 3.6 environment with the libraries described in the file requirements.txt. To reproduce the results you just need to copy 
 the competition datasets under the datasets/ folder and run the notebooks cells.  
 
-Final submission can be found in submission.txt and final models are also serialized in pickle files. 
+Final submission can be found in submission.csv and final models are also serialized in pickle files. 
 
 
